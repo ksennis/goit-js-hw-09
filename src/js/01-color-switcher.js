@@ -23,5 +23,3 @@ function start() {
 
 startBtn.addEventListener('click', start);
 stopBtn.addEventListener('click', stop);
-    
-
